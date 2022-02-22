@@ -22,6 +22,11 @@
 ### Here is my study projects:
 1. [Console CRUD app using JDBC](https://github.com/Krasobas/job4j_tracker)
 
+------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krasobas&layout=compact)](https://github.com/Krasobas/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Krasobas&hide=stars,prs,issues,contribs)
+
 <!--
 **Krasobas/Krasobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
