@@ -1,7 +1,7 @@
 ### Hi, I'm Vasiliy 👋
 ###
 ### Glad to see you here!:v:
-
+------
 #### About me
 
 * :computer: I'm 30 years old programmer from Moscow 
@@ -10,7 +10,7 @@
 * :speech_balloon: I speak English (B1), French (B2) and Russian (native) 
 * 📫 You can reach me at vasiliy.krasov@gmail.com
 
------------
+------
 <b>Core technologies:</b>
 > ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Maven](https://img.shields.io/badge/Maven-3-red)
