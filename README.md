@@ -1,6 +1,6 @@
 ### Hi, I'm Vasiliy 👋
 ###
-### Glad to see you here!:v:
+### Glad to see you here!
 ------
 #### About me
 
