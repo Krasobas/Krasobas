@@ -4,7 +4,7 @@
 ------
 #### About me
 
-* :computer: I'm 30 years old programmer from Paris
+* :computer: I'm 29 years old programmer from Paris
 * :coffee: I learn Java at [Job4j](https://job4j.ru/) 
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English (B1), French (B2) and Russian (native) 
