@@ -21,6 +21,7 @@
 
 ### Here is my study projects:
 1. [Console CRUD app using JDBC](https://github.com/Krasobas/job4j_tracker)
+2. [Job search aggregator app using REST API](https://github.com/Krasobas/job4j_grabber)
 
 ------
 
