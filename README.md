@@ -22,6 +22,7 @@
 ### Here is my projects:
 1. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
 2. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
+3. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
 
 ------
 
