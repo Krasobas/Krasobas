@@ -19,7 +19,7 @@
 <!--![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
 
-### Here is my study projects:
+### Here is my projects:
 1. [Console CRUD app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
 2. [Job search aggregator app using REST API](https://github.com/Krasobas/job4j_grabber)
 
