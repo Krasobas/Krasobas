@@ -4,8 +4,8 @@
 ------
 #### About me
 
-* :computer: I'm 29 y.o. and I love people, nature and IT. 
-* :coffee: I study Java at [Job4j](https://job4j.ru/) 
+* :angel: I'm 29 y.o. and I love people, nature and IT
+* :coffee: Actually I'm open to work
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English (B1), French (B2) and Russian (native) 
 * 📫 You can reach me at vasiliy.krasov@gmail.com
