@@ -8,10 +8,9 @@
 * :coffee: Actually I'm open to work
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English, French and Russian 
-* 📫 You can reach me at 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vasiliy.krasov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(t.me/krasobas)]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/krasobas/)]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/krasobas)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
 
 -------
 <b>Core technologies:</b>
