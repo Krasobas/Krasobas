@@ -9,10 +9,10 @@
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English, French and Russian 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white){:target="_blank"}](mailto:vasiliy.krasov@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/krasobas)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
-[![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/)
+[![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/){:target="_blank"}
 
 -------
 <b>Core technologies:</b>
