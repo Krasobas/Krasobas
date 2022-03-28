@@ -30,6 +30,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Krasobas&hide=stars,prs,issues,contribs)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Krasobas)
+![GitHub watchers](https://img.shields.io/github/watchers/krasobas/krasobas?style=social)
 
 <!--
 **Krasobas/Krasobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
