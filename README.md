@@ -1,7 +1,7 @@
 ### Hi, I'm Vasiliy 👋
 ###
 ### Glad to see you here!
-------
+-------
 #### About me
 
 * :angel: I'm 29 y.o. and I love people, nature and IT
@@ -10,7 +10,7 @@
 * :speech_balloon: I speak English, French and Russian 
 * 📫 You can reach me at vasiliy.krasov@gmail.com
 
-------
+-------
 <b>Core technologies:</b>
 > ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Maven](https://img.shields.io/badge/Maven-3-red)
@@ -24,7 +24,7 @@
 2. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
 3. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
 
-------
+-------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krasobas&layout=compact)](https://github.com/Krasobas/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Krasobas&hide=stars,prs,issues,contribs)
