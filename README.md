@@ -9,7 +9,7 @@
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English, French and Russian 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com?target=_blank)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/krasobas)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
 [![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/)
@@ -24,7 +24,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
 
 ### Here are my projects:
-1. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app){:target="_blank"}
+1. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
 2. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
 3. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
 
