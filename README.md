@@ -4,7 +4,8 @@
 -------
 #### About me
 
-* :angel: I'm 29 y.o. and I love people, nature and IT
+* :hatching_chick: I'm 29 y.o.
+* :angel: I love people, nature and IT
 * :coffee: Actually I'm open to work
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :speech_balloon: I speak English, French and Russian 
