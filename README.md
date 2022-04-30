@@ -31,6 +31,7 @@
 
 ### Interview test tasks:
 1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
+2. [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
 -------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krasobas&layout=compact)](https://github.com/Krasobas/github-readme-stats)
