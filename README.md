@@ -17,11 +17,12 @@
 
 -------
 ### Core technologies:
-> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Travis](https://img.shields.io/badge/Travis-CI-succes)
+![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![Travis](https://img.shields.io/badge/Travis-CI-succes)
+
 <!--![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
 
 ### Here are my projects:
