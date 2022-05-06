@@ -16,13 +16,13 @@
 [![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/)
 
 -------
-<b>Core technologies:</b>
+### Core technologies:
 > ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
-<!--![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
+<!--![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
 
 ### Here are my projects:
 1. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
