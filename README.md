@@ -4,7 +4,7 @@
 -------
 #### About me
 
-* :hatching_chick: I'm 29 y.o.
+* :hatching_chick: I'm 30 y.o.
 * :angel: I love people, nature and IT
 * :hatched_chick: My Java expirience is more than 1,5 year for now 
 * :coffee: Actually I'm open to work
