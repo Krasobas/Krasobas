@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![JUnit](https://img.shields.io/badge/JUnit-%3E%3D%204.0-blue)
+![JUnit](https://img.shields.io/badge/JUnit-%3E%3D%204.0-red)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
