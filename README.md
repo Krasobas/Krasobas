@@ -6,7 +6,7 @@
 
 * :hatching_chick: I'm 30 y.o.
 * :angel: I love people, nature and IT
-* :hatched_chick: My Java expirience is more than 1,5 year for now 
+* :hatched_chick: My Java expirience is about 2 years
 * :coffee: Actually I'm open to work
 * :speech_balloon: I speak English, French and Russian 
 * [:page_facing_up: My CV](https://krasobas.github.io/CV/)
