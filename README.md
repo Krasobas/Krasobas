@@ -29,7 +29,8 @@
 
 -----
 
-###Core technologies:
+## My core technologies:
+
 ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
