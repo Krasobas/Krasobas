@@ -16,8 +16,18 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
 [![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/)
 
--------
-### Core technologies:
+-----
+## MY PROJECTS:
+1. [Spring MVC application (in development)](https://github.com/Krasobas/taskmen)
+2. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
+3. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
+4. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
+
+### Interview tasks:
+1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
+2. [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
+-----
+###Core technologies:
 ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
@@ -26,17 +36,6 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
 <!--![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)-->
-
-### Here are my projects:
-1. [Spring MVC application (in development)](https://github.com/Krasobas/taskmen)
-2. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
-3. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
-4. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
-
-### Interview test tasks:
-1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
-2. [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
--------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krasobas&layout=compact)](https://github.com/Krasobas/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Krasobas&hide=stars,prs,issues,contribs)
