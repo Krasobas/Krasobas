@@ -26,7 +26,9 @@
 ### Interview tasks:
 1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
 2. [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
+
 -----
+
 ###Core technologies:
 ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
