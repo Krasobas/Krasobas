@@ -26,6 +26,7 @@
 ### Interview tasks:
 1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
 2. [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
+3. [Configurable shop pages parser](https://github.com/Krasobas/shop_parser)
 
 -----
 
