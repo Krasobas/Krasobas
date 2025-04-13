@@ -18,10 +18,11 @@
 
 -----
 ## MY PROJECTS:
-1. [Spring MVC application (in development)](https://github.com/Krasobas/taskmen)
-2. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
-3. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
-4. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
+1. [Cinima (Spring MVC)](https://github.com/Krasobas/job4j_cinema)
+2. [Task manager (Spring MVC)](https://github.com/Krasobas/taskmen)
+3. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
+4. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
+5. [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
 
 ### Interview tasks:
 1. [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
