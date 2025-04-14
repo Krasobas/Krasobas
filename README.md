@@ -18,7 +18,7 @@
 
 -----
 ## MY PROJECTS:
-1. [Cinima (Spring MVC)](https://github.com/Krasobas/job4j_cinema)
+1. [Cinema (Spring MVC)](https://github.com/Krasobas/job4j_cinema)
 2. [Task manager (Spring MVC)](https://github.com/Krasobas/taskmen)
 3. [Console tasks tracker app using JDBC](https://github.com/Krasobas/job4j_tracker_app)
 4. [Job grabber - HTML Parser using JSOUP](https://github.com/Krasobas/job4j_grabber)
