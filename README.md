@@ -4,8 +4,8 @@
 -------
 #### About me
 
-* :angel: I love people, nature and IT
-* :hatched_chick: I'm codding since 2020
+* 💛 I love people, nature and IT
+* 😍 I'm codding since 2020
 * :coffee: Actually I'm open to work
 * :speech_balloon: I speak English, French and Russian 
 * [:page_facing_up: My CV](https://krasobas.github.io/CV/)
