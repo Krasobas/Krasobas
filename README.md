@@ -6,7 +6,7 @@
 
 * 💛 I love people, nature and IT
 * 😍 I'm codding since 2020
-* :coffee: Actually I'm open to work
+* :coffee: I have international work experience in Russia, France and UAE
 * :speech_balloon: I speak English, French and Russian 
 * [:page_facing_up: My CV](https://krasobas.github.io/CV/)
 
