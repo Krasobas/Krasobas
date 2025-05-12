@@ -19,7 +19,7 @@
 -----
 ## MY PROJECTS:
 - [Task manager v2](https://github.com/Krasobas/job4j_todo)
-- [Cinema (Spring MVC)](https://github.com/Krasobas/job4j_cinema)
+- [Cinema](https://github.com/Krasobas/job4j_cinema)
 - [Task manager v1](https://github.com/Krasobas/taskmen)
 - [Console tasks tracker app](https://github.com/Krasobas/job4j_tracker_app)
 - [Job grabber - HTML Parser](https://github.com/Krasobas/job4j_grabber)
