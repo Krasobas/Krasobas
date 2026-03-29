@@ -38,7 +38,7 @@ I work on real-time WebSocket systems, data pipelines, identity management, and 
 [![Email](https://img.shields.io/badge/Gmail-vasiliy.krasov%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krasobas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
 [![Telegram](https://img.shields.io/badge/Telegram-@krasobas-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/krasobas)
-[![Website](https://img.shields.io/badge/Portfolio-krasobas.dev-00e5ff?style=flat&logo=googlechrome&logoColor=white)](https://krasobas.com)
+[![Website](https://img.shields.io/badge/Portfolio-krasobas.com-00e5ff?style=flat&logo=googlechrome&logoColor=white)](https://krasobas.com)
 
 ---
 
