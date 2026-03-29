@@ -1,63 +1,45 @@
-### Hi, I'm Vasiliy 👋
-###
-### Glad to see you here!
--------
-#### About me
+# Vasiliy Krasov
 
-* 💛 I love people, nature and IT
-* 😍 I'm codding since 2020
-* :coffee: I have international work experience in Russia, France and UAE
-* :speech_balloon: I speak English, French and Russian 
-* [:page_facing_up: My CV](https://krasobas.github.io/CV/)
+**Software Engineer** — fullstack with a backend focus. Currently building [Aleria Big Data Fusion](https://aleria.ai/solutions/fusion), an enterprise ETL platform deployed at clients across the UAE.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/krasobas)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
-[![Instagram](https://img.shields.io/badge/vsl.krsv-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vsl.krsv/)
+I work on real-time WebSocket systems, data pipelines, identity management, and production infrastructure. Based in Abu Dhabi, previously in Paris.
 
------
-## MY PROJECTS:
-- [Task manager v2](https://github.com/Krasobas/job4j_todo)
-- [Cinema](https://github.com/Krasobas/job4j_cinema)
-- [Task manager v1](https://github.com/Krasobas/taskmen)
-- [Console tasks tracker app](https://github.com/Krasobas/job4j_tracker_app)
-- [Job grabber - HTML Parser](https://github.com/Krasobas/job4j_grabber)
-- [Utilities: zip archiver and file finder](https://github.com/Krasobas/job4j_utilities)
+---
 
-### Interview tasks:
-- [Weather and exchange rate parsers](https://github.com/Krasobas/teamidea_krasov)
--  [Flights filter module](https://github.com/Krasobas/gridnine_krasov)
-- [Configurable shop pages parser](https://github.com/Krasobas/shop_parser)
+### What I'm working on
 
------
+- **ETL platform** — ingesting and unifying enterprise data from Oracle, SAP, Salesforce and dozens of other sources into an AI-ready datalake
+- **Real-time event system** — WebSocket-based broadcasting across multi-tenant organisations
+- **On-premise / air-gapped deployments** — shipping complex software into enterprise client networks
 
-## My core technologies:
+---
 
-![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![JUnit](https://img.shields.io/badge/JUnit-%3E%3D%204.0-red)
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![Travis](https://img.shields.io/badge/Travis-CI-succes)
+### Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krasobas&layout=compact)](https://github.com/Krasobas/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Krasobas&hide=stars,prs,issues,contribs)
+**Backend**
+`Java 21` `Quarkus` `Spring Boot` `REST` `WebSockets`
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Krasobas)
-![GitHub watchers](https://img.shields.io/github/watchers/krasobas/krasobas?style=social)
+**Frontend**
+`React` `TypeScript`
 
-<!--
-**Krasobas/Krasobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Storage**
+`MongoDB` `PostgreSQL` `Redis` `MinIO / RusFS`
 
-Here are some ideas to get you started:
+**Infrastructure**
+`Docker` `Traefik` `Linux` `Nginx` `GitLab CI` `GitHub Actions` `Jenkins`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Observability & Security**
+`Grafana` `Prometheus` `Tempo` `Loki` `Keycloak` `OAuth 2`
+
+---
+
+### Contact
+
+[![Email](https://img.shields.io/badge/Gmail-vasiliy.krasov%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vasiliy.krasov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krasobas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasobas/)
+[![Telegram](https://img.shields.io/badge/Telegram-@krasobas-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/krasobas)
+[![Website](https://img.shields.io/badge/Portfolio-krasobas.dev-00e5ff?style=flat&logo=googlechrome&logoColor=white)](https://krasobas.com)
+
+---
+
+*RU · EN · FR*
